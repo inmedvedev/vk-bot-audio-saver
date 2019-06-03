@@ -5,8 +5,8 @@ import os
 import requests
 
 
-access_token = 'fd60ae23ff550adebac4d4e36afc8bef5b2755df7eecd568ad50deaa758a4cc0358878ae88a7aeb1ec343'
-confirmation_token = '38c947a3'
+access_token = 'YOUR_ACCESS_TOKEN'
+confirmation_token = 'YOUR_CONFIRMATION_TOKEN'
 
 
 logging.basicConfig(
